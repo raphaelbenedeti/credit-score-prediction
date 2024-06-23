@@ -6,6 +6,7 @@ Este projeto utiliza um conjunto de dados financeiros para prever a pontuação 
 
 - `main_notebook.ipynb`: Notebook com a análise completa.
 - `train.csv`: Conjunto de dados utilizado para treinamento dos modelos.
+- `requirements.txt`: Arquivo de dependências.
 
 ## Estrutura do Notebook
 
@@ -56,3 +57,36 @@ O conjunto de dados `train.csv` contém as seguintes colunas:
 - `Payment_Behaviour`: Comportamento de pagamento.
 - `Monthly_Balance`: Saldo mensal.
 - `Credit_Score`: Pontuação de crédito.
+
+## Requirements
+
+Este projeto utiliza as seguintes dependências, especificadas no arquivo `requirements.txt`:
+
+- `pandas==2.2.2`
+- `numpy==1.26.4`
+- `seaborn==0.13.2`
+- `matplotlib==3.9.0`
+- `plotly==5.22.0`
+- `scikit-learn==1.5.0`
+- `yellowbrick==1.5`
+- `notebook==7.2.1`
+- `jupyterlab==4.2.2`
+
+## Como Executar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/raphaelbenedeti/credit-score-prediction.git
+   ```
+2. Navegue até o diretório do projeto:
+   ```bash
+   cd credit-score-prediction
+   ```
+3. Instale as dependências necessárias:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Abra o notebook:
+   ```bash
+   jupyter notebook main_notebook.ipynb
+   ```
