@@ -23,7 +23,6 @@ Este projeto utiliza um conjunto de dados financeiros para prever a pontuação 
     - K-Nearest Neighbors
     - Support Vector Machine
 8. **Avaliação dos Modelos**
-9. **Conclusões**
 
 ## Conjunto de Dados
 
