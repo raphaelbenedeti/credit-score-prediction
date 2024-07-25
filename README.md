@@ -1,12 +1,13 @@
 # Projeto de Previsão de Crédito
 
-Este projeto utiliza um conjunto de dados financeiros para prever a pontuação de crédito de clientes. O notebook principal contém análises exploratórias, limpeza de dados, e modelos de machine learning para previsão de crédito.
+Este projeto utiliza um conjunto de dados financeiros para prever a pontuação de crédito de clientes. O código principal contém análises exploratórias, limpeza de dados, e modelos de aprendizado de máquina para previsão de crédito.
 
 ## Conteúdo do Repositório
 
-- `main_notebook.ipynb`: Notebook com a análise completa.
+- `main_notebook.ipynb`: Notebook com a análise completa (Código principal).
 - `train.csv`: Conjunto de dados utilizado para treinamento dos modelos.
 - `requirements.txt`: Arquivo de dependências.
+- `Raphael Benedeti-Final.pdf`: Arquivo PDF do Trabalho de Conclusão de Curso
 
 ## Estrutura do Notebook
 
